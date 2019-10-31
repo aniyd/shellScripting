@@ -17,3 +17,8 @@
 ./upgradePackage.sh <package-name> ##single package
 
 ```
+
+**Check Internet Connection**
+```
+./checkInternet.sh
+```
