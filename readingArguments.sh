@@ -8,4 +8,4 @@ do
     COUNT=$((COUNT+1))
     echo "${COUNT} ${arg}"
 done
-
+exit 0
