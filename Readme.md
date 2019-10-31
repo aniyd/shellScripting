@@ -22,3 +22,8 @@
 ```
 ./checkInternet.sh
 ```
+
+**Set Permission for file/folder**
+```
+./setPermission <permission-code> <file/folder with complete path within double quotes>
+```
