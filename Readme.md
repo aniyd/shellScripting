@@ -27,3 +27,8 @@
 ```
 ./setPermission <permission-code> <file/folder with complete path within double quotes>
 ```
+
+**Read File line by line**
+```
+./pipeline.sh <filename with complete path>
+```
